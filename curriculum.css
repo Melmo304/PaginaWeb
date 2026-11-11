@@ -1,0 +1,46 @@
+body{
+    color: white;
+    background-color: aqua;
+    text-align: center;
+    margin: 0;
+}
+
+.avatar{
+    color: black;
+    text-align: center;
+    font-size: 45pt;
+}
+
+.estudio{
+    color: blue;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+
+.info{
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center
+    
+}
+
+strong{
+    color: black;
+}
+
+section{
+    background-color: rgb(117, 110, 110);
+    border: 40pt;
+    border-radius: 14px;
+    padding: 20px 22px;
+     margin-top: 18px
+}
